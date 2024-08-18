@@ -1,4 +1,4 @@
-# Mall Website Backend
+# E-Commerce Backend System
 
 ## Description
 
